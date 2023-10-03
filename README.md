@@ -7,6 +7,9 @@
 
 - ⚡ **I love to explore new thing**
 
+ </br>
+</br>
+
 <h3 align="left" margin-bottom="10px">Connect with me:</h3></br>
 </br>
 <p  margin-bottom="10px" align="left">
