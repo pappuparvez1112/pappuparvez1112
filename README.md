@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pappu parvez</h1>
 <h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
+</br>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 📫  **pappuparvezshazz@gmail.com**
